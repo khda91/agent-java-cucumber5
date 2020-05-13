@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.khda91.reportportal.cucumber;
+package io.github.khda91.reportportal.cucumber;
 
 import io.cucumber.core.internal.gherkin.AstBuilder;
 import io.cucumber.core.internal.gherkin.Parser;
@@ -41,8 +41,8 @@ import java.util.Map;
 import java.util.Queue;
 import java.util.Set;
 
-import static io.khda91.reportportal.cucumber.Utils.extractPickleTags;
-import static io.khda91.reportportal.cucumber.Utils.extractTags;
+import static io.github.khda91.reportportal.cucumber.Utils.extractPickleTags;
+import static io.github.khda91.reportportal.cucumber.Utils.extractTags;
 
 /**
  * Running context that contains mostly manipulations with Gherkin objects.

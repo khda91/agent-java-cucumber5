@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.khda91.reportportal.cucumber;
+package io.github.khda91.reportportal.cucumber;
 
 import com.epam.ta.reportportal.ws.model.StartTestItemRQ;
 import io.cucumber.core.internal.gherkin.ast.Step;

@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.khda91.reportportal.cucumber</groupId>
+    <groupId>io.github.khda91.reportportal.cucumber</groupId>
     <artifactId>agent-java-cucumber5</artifactId>
     <version>1.0</version>
     <name>${project.groupId}:${project.artifactId}</name>
